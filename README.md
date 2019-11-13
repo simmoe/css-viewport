@@ -1,2 +1,2 @@
-# css-viewport
- 
+# css-media-queries
+ learn css media queries
